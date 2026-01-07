@@ -13,7 +13,7 @@ A diferencia de otros packs, OptiNeoFCB no introduce contenido nuevo, no añade 
 
 El pack se compone de una selección cuidadosamente evaluada de mods de optimización compatibles con NeoForge, elegidos por su impacto positivo en el rendimiento y su bajo nivel de interferencia con el comportamiento vanilla. Cada mod incluido cumple una función concreta relacionada con la eficiencia del juego, evitando redundancias y descartando componentes innecesarios que puedan generar consumo extra de recursos.
 
-OptiNeoFCB también incluye archivos de configuración predefinidos que buscan un equilibrio entre rendimiento y fidelidad a la experiencia original. Estas configuraciones no están pensadas para cambiar cómo se juega Minecraft, sino <img width="861" height="512" alt="sin_mods" src="https://github.com/user-attachments/assets/d4830090-5609-4c9a-ac33-6e54df6b529c" />
+OptiNeoFCB también incluye archivos de configuración predefinidos que buscan un equilibrio entre rendimiento y fidelidad a la experiencia original. Estas configuraciones no están pensadas para cambiar cómo se juega Minecraft, sino
 para asegurar que el juego funcione de manera más fluida y estable desde el primer inicio, sin necesidad de ajustes adicionales.
 
 El proyecto pone especial énfasis en mantener una experiencia coherente y predecible. El objetivo no es maximizar números de FPS de forma artificial, sino lograr una sensación de juego más suave, con menos interrupciones, menor variabilidad en el rendimiento y una respuesta más consistente durante la exploración, la construcción y el juego normal.
